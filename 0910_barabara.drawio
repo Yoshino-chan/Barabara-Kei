@@ -158,10 +158,296 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sJ4oxeIrraT7vgHEzahN" name="ページ2">
-    <mxGraphModel dx="880" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="766" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AljCUeOCVzVp_-XYUm6Y-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-1" value="開始&lt;div&gt;各メンバーシーン&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="351" y="40" width="126" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="AljCUeOCVzVp_-XYUm6Y-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="200" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-4" value="行動選択１" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="341.5" y="230" width="145" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-6" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="383.5" y="268" width="61" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AljCUeOCVzVp_-XYUm6Y-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="333" y="786" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-7" value="行動１-①&lt;div&gt;メンバーを探す&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="265" y="380" width="136" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AljCUeOCVzVp_-XYUm6Y-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="495" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-8" value="行動１-②&lt;div&gt;ネザー要塞を探索&lt;/div&gt;&lt;div&gt;背景：ネザー要塞(内見)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="427" y="380" width="136" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-13" value="ウィザスケと戦闘&lt;div&gt;行動選択２&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="424.5" y="487" width="145" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-14" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="466.5" y="525" width="61" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AljCUeOCVzVp_-XYUm6Y-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="786" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-15" value="行動２-①&lt;div&gt;逃げる&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="346" y="631" width="136" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AljCUeOCVzVp_-XYUm6Y-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="577.9999999999998" y="786" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-16" value="行動２-②&lt;div&gt;戦う&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="510" y="631" width="136" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AljCUeOCVzVp_-XYUm6Y-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-23" value="Brooook　シーン&lt;div&gt;背景：歪んだ森の砦の遺跡（外見）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="216.5" y="790" width="395" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-24" value="Nakamu　シーン&lt;div&gt;背景：ネザー要塞（外見）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="216" y="132" width="395" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-27" value="ピグリンと戦闘&lt;div&gt;行動選択３&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="341" y="910" width="145" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-28" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="383.5" y="948" width="61" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AljCUeOCVzVp_-XYUm6Y-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="333" y="1450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-29" value="行動３-①&lt;div&gt;砦から逃げる&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="265" y="1050" width="136" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AljCUeOCVzVp_-XYUm6Y-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="497" y="1169" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-30" value="行動３-②&lt;div&gt;砦の中に逃げる&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="429" y="1050" width="136" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="413.5" y="1500" as="sourcePoint" />
+            <mxPoint x="413.5" y="1575" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-38" value="Nakamu　シーン&lt;div&gt;背景：真紅の森&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="215.5" y="1450" width="395" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-41" value="電話をかける&lt;div&gt;行動選択４&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="341" y="1574" width="145" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-42" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="382.5" y="1612" width="61" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AljCUeOCVzVp_-XYUm6Y-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="333.05882352941194" y="1940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-43" value="行動４-①&lt;div&gt;Brooookに電話をかける&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="264.5" y="1720" width="136" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AljCUeOCVzVp_-XYUm6Y-44" target="AljCUeOCVzVp_-XYUm6Y-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-44" value="行動４-②&lt;div&gt;きんときに電話をかける&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="426.5" y="1720" width="136" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AljCUeOCVzVp_-XYUm6Y-49" target="AljCUeOCVzVp_-XYUm6Y-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-49" value="きんとき　シーン&lt;div&gt;背景：桜が咲いている平原&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="215" y="1940" width="395" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-52" value="Nakamu電話後&lt;div&gt;行動選択５&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="340" y="2050" width="145" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-53" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="381.5" y="2088" width="61" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AljCUeOCVzVp_-XYUm6Y-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="331.5" y="2310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-54" value="行動５-①&lt;div&gt;探索・痕跡探し&lt;/div&gt;&lt;div&gt;イラスト：桜の苗木&lt;/div&gt;&lt;div&gt;背景：廃坑&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="263.5" y="2196" width="136" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AljCUeOCVzVp_-XYUm6Y-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="492.75" y="2310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-55" value="行動５-②&lt;div&gt;資材集め&lt;/div&gt;&lt;div&gt;背景：平原村&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="425.5" y="2196" width="134.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AljCUeOCVzVp_-XYUm6Y-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="2430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-65" value="Nakamu・Brooook・きんとき　合流シーン&lt;div&gt;背景：桜が咲いている平原&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="216.5" y="2310" width="395" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AljCUeOCVzVp_-XYUm6Y-66" target="AljCUeOCVzVp_-XYUm6Y-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-66" value="シャークん　シーン&lt;div&gt;背景：砂漠村&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="218.5" y="2580" width="395" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AljCUeOCVzVp_-XYUm6Y-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="416" y="3130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-68" value="スマイル　シーン&lt;div&gt;背景：エンドシティ&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="218.5" y="3002" width="395" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-72" value="行動選択６" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="344.75" y="3130" width="145" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-73" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="386.25" y="3166" width="61" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AljCUeOCVzVp_-XYUm6Y-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="336.25" y="3423.9999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-74" value="行動６-①&lt;div&gt;エンドシップに行く&lt;/div&gt;&lt;div&gt;背景：エンドシップ(外見→内見)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="268.25" y="3274" width="136" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AljCUeOCVzVp_-XYUm6Y-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="498.25" y="3423.9999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-75" value="行動６-②&lt;div&gt;エンドシップ内を探索&lt;/div&gt;&lt;div&gt;背景：エンドシティ(外見)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="430.25" y="3274" width="136" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AljCUeOCVzVp_-XYUm6Y-80" target="AljCUeOCVzVp_-XYUm6Y-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-80" value="スマイル・きりやん　合流シーン&lt;div&gt;背景：エンド&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="218.75" y="3426" width="395" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AljCUeOCVzVp_-XYUm6Y-81" target="AljCUeOCVzVp_-XYUm6Y-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-81" value="Nakamu・きりやん　電話シーン&lt;div&gt;背景：エンドシティ&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="218.75" y="3536" width="395" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AljCUeOCVzVp_-XYUm6Y-83" target="AljCUeOCVzVp_-XYUm6Y-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-83" value="スマイル・きりやん　シーン&lt;div&gt;背景：エンド&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="219.75" y="3646" width="395" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AljCUeOCVzVp_-XYUm6Y-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="417.25" y="3896" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-85" value="全員　合流シーン&lt;div&gt;背景：エンド&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="219.75" y="3786" width="395" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AljCUeOCVzVp_-XYUm6Y-91" target="AljCUeOCVzVp_-XYUm6Y-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-91" value="スマホ　指令&lt;div&gt;エンドラの居場所を&lt;/div&gt;&lt;div&gt;示す謎&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="349.25" y="3896" width="136" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AljCUeOCVzVp_-XYUm6Y-92" target="AljCUeOCVzVp_-XYUm6Y-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-92" value="全員　エンドラ討伐シーン&lt;div&gt;イラスト：エンドラの卵&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="219.25" y="4006" width="395" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-94" value="全員が&lt;div&gt;エンドポータルに&lt;/div&gt;&lt;div&gt;飛び込み終了→暗転&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="353.25" y="4136" width="126" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-98" value="行動選択４" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="424.5" y="1169" width="145" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-99" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="466.5" y="1207" width="61" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AljCUeOCVzVp_-XYUm6Y-100">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="415.0588235294117" y="1450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-100" value="行動４-①&lt;div&gt;砦を出る&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="348" y="1309" width="136" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AljCUeOCVzVp_-XYUm6Y-101">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="1450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-101" value="行動４-②&lt;div&gt;砦を探索する&lt;/div&gt;&lt;div&gt;背景：歪んだ森の砦の遺跡(外見・砦にある橋)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="512" y="1309" width="136" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AljCUeOCVzVp_-XYUm6Y-111">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="494.5" y="1940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-111" value="Brooookに電話→合流&lt;div&gt;背景：ネザー要塞(内見)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="426.5" y="1810" width="136" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AljCUeOCVzVp_-XYUm6Y-126">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="416" y="2580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-126" value="シャークんの居場所を&lt;div&gt;示す謎&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="348.75" y="2430" width="134.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AljCUeOCVzVp_-XYUm6Y-129">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="416" y="2850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-129" value="シャークん・Nakamu・Brooook・きんとき　合流シーン" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="218.5" y="2730" width="395" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AljCUeOCVzVp_-XYUm6Y-133">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="416.75" y="3002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AljCUeOCVzVp_-XYUm6Y-133" value="エンドポータルを&lt;div&gt;示す謎&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="349.5" y="2852" width="134.5" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
